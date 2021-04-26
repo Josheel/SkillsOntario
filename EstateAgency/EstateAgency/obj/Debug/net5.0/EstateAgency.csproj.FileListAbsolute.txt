@@ -1,0 +1,16 @@
+C:\Users\Josheel\source\repos\EstateAgency\EstateAgency\obj\Debug\net5.0\EstateAgency.csprojAssemblyReference.cache
+C:\Users\Josheel\source\repos\EstateAgency\EstateAgency\obj\Debug\net5.0\EstateAgency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josheel\source\repos\EstateAgency\EstateAgency\obj\Debug\net5.0\EstateAgency.AssemblyInfoInputs.cache
+C:\Users\Josheel\source\repos\EstateAgency\EstateAgency\obj\Debug\net5.0\EstateAgency.AssemblyInfo.cs
+C:\Users\Josheel\source\repos\EstateAgency\EstateAgency\obj\Debug\net5.0\EstateAgency.csproj.CoreCompileInputs.cache
+C:\Users\Josheel\source\repos\EstateAgency\EstateAgency\bin\Debug\net5.0\EstateAgency.exe
+C:\Users\Josheel\source\repos\EstateAgency\EstateAgency\bin\Debug\net5.0\EstateAgency.deps.json
+C:\Users\Josheel\source\repos\EstateAgency\EstateAgency\bin\Debug\net5.0\EstateAgency.runtimeconfig.json
+C:\Users\Josheel\source\repos\EstateAgency\EstateAgency\bin\Debug\net5.0\EstateAgency.runtimeconfig.dev.json
+C:\Users\Josheel\source\repos\EstateAgency\EstateAgency\bin\Debug\net5.0\EstateAgency.dll
+C:\Users\Josheel\source\repos\EstateAgency\EstateAgency\bin\Debug\net5.0\ref\EstateAgency.dll
+C:\Users\Josheel\source\repos\EstateAgency\EstateAgency\bin\Debug\net5.0\EstateAgency.pdb
+C:\Users\Josheel\source\repos\EstateAgency\EstateAgency\obj\Debug\net5.0\EstateAgency.dll
+C:\Users\Josheel\source\repos\EstateAgency\EstateAgency\obj\Debug\net5.0\ref\EstateAgency.dll
+C:\Users\Josheel\source\repos\EstateAgency\EstateAgency\obj\Debug\net5.0\EstateAgency.pdb
+C:\Users\Josheel\source\repos\EstateAgency\EstateAgency\obj\Debug\net5.0\EstateAgency.genruntimeconfig.cache
